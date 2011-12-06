@@ -1,0 +1,20 @@
+{ 
+    "name" : "promised-request",
+    "description" : "A wrapper for Mikeals request module, that returns a promise",
+    "author" : {
+        "name": "Siegmund Führinger",
+        "email": "io@sifu.io",
+        "url": "http://sifu.io"
+    },
+    "version" : "1.0",
+    "repository" : { 
+        "type" : "git",
+        "url" : "http://github.com/sifu/promised-request"
+    },
+    "dependencies" : {
+        "request" : ">=2.2.9",
+        "promised-io" : ">=0.3.0"
+    },
+    "engines" : [ "node >= 0.4.1" ],
+    "main" : "./main"
+}
