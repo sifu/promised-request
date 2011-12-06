@@ -12,5 +12,5 @@ wrapper method does.
 
 ``` javascript
 var request = require( 'promised-request' );
-request( 'http://sifu.io' ).then( function( response ) { console.info( resonse.body ) } );
+request( 'http://sifu.io' ).then( function( response ) { console.info( response.body ) } );
 ```
