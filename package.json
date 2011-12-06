@@ -6,7 +6,7 @@
         "email": "io@sifu.io",
         "url": "http://sifu.io"
     },
-    "version" : "1.0",
+    "version" : "1.0.0",
     "repository" : { 
         "type" : "git",
         "url" : "http://github.com/sifu/promised-request"
